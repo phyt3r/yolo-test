@@ -6,7 +6,6 @@ This project is a Spring Boot application designed to provide a basic framework 
 ## Project Structure
 
 - `.gitignore` - Specifies files and directories to be ignored by Git.
-- `.idea` - Directory containing IDE-specific settings (IntelliJ IDEA).
 - `mvnw`, `mvnw.cmd` - Maven wrapper scripts for Unix and Windows.
 - `pom.xml` - Maven Project Object Model file containing project dependencies and build configuration.
 - `src` - Directory containing the source code.
